@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions and support:
 - 📧 Email: hrusikeshviroot@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/hrusikesh8280/Process-Flow-Stack)/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/hrusikesh8280/Process-Flow-Stack)
 - 📖 Documentation: [Wiki](https://github.com/hrusikesh8280/process-flow-creator/wiki)
 
 
